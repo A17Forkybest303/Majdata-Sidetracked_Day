@@ -3,7 +3,7 @@
 &first=0.18
 &des=『フォルキ』A17Forkybest303 and SomeLongName
 
-&lv_5=14
+&lv_5=14+
 &inote_5=(94) {1}
 Chx[4:15],,,,
 {8}
